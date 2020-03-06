@@ -1,0 +1,7 @@
+1、 spring cluod zuul time out:
+
+1）某个commandkey： "hystrix.command." + commandKey + ".execution.isolation.thread.timeoutInMilliseconds"
+2）默认： hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds   
+3）ribbion time out
+
+
